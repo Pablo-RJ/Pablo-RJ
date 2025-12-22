@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner PRJ.png" alt="Pablo Rodriguez Jimenez Banner" width="100%">
+</p>
+
 # Hi, I'm Pablo Rodríguez Jiménez 👋
 ### Future Cloud & Cybersecurity Engineer | Telecommunications Engineering Student in the University of Granada, Spain.
 
