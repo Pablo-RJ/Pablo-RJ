@@ -43,6 +43,7 @@ I am a Telecommunications Engineering student focused on building **secure, scal
 * **Solution:** Building a secure containerization workflow that integrates **Trivy** for automated vulnerability scanning (CVEs).
 * **Current Stage:** Refining CI/CD YAML configurations and security gate policies. 
 * **🚀 Public release:** Repository will be published upon completion of the first stable pipeline iteration.
+* [🔗 View Repository](https://github.com/Pablo-RJ/Secure-Artifact-Repository)
 
 ---
 
