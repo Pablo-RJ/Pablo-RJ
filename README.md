@@ -73,12 +73,6 @@ I am a Telecommunications Engineering student focused on **building secure, scal
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablo-RJ&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-RJ&layout=compact&theme=tokyonight)
-
----
-
 ### 🛠️ Core Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,windows,linux,kali,ubuntu,arduino,raspberrypi,docker,terraform,gcp,githubactions,git,github,matlab,octave,vscode" />
