@@ -81,7 +81,7 @@ I am a Telecommunications Engineering student focused on **building secure, scal
 
 ### 🛠️ Core Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,arduino,raspberrypi,docker,terraform,gcp,azure,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,windows,linux,kali,ubuntu,arduino,raspberrypi,docker,terraform,gcp,githubactions,git,github,matlab,octave,vscode" />
 </p>
 
 ---
