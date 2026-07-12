@@ -42,18 +42,20 @@ I am a Telecommunications Engineering student focused on **building secure, scal
 * [🔗 View R&D Documentation & Lab Measurements](#) *(Link pending)*
 
 ### 🔹 Scalable IoT Telemetry System | `ESP32` `MQTT` `InfluxDB` `Grafana` 
-![Status: WIP](https://img.shields.io/badge/status-WIP-yellow?style=for-the-badge&logo=git) ![Category: IoT](https://img.shields.io/badge/category-IoT-blue?style=for-the-badge)
+![Status: Completed](https://img.shields.io/badge/Status-Completed_--_Archived-gray?style=for-the-badge&logo=git) ![Category: IoT](https://img.shields.io/badge/category-IoT-blue?style=for-the-badge)
+* **Status:** Completed (Legacy / No active maintenance).
 * **Problem:** Efficiently capturing and visualizing high-frequency sensor data from remote devices without losing data integrity.
 * **Solution:** Designed an end-to-end telemetry pipeline using the MQTT protocol for lightweight messaging and a Time-Series Database (TSDB) for optimized storage.
 * **Tech Stack:** Dockerized environment with Node-RED for orchestration and InfluxDB for persistence.
 * [🔗 View Repository](https://github.com/Pablo-RJ/ESP32-IoT-Telemetry)
 
 ### 🔹 Automated Container Security Pipeline (DevSecOps) | `Docker` `Trivy` `CI/CD`
-![Initial Commit: Pending](https://img.shields.io/badge/Initial_Commit-Pending-lightgrey?style=for-the-badge&logo=git) ![Status: Lab Phase](https://img.shields.io/badge/Status-Lab_Phase-blueviolet?style=for-the-badge)
+![Status: Completed](https://img.shields.io/badge/Status-Completed_--_Archived-gray?style=for-the-badge&logo=git) ![Status: Finished](https://img.shields.io/badge/Status-Finished-green?style=for-the-badge)
+* **Status:** Completed (Legacy / No active maintenance).
 * **Problem:** Vulnerabilities in container images often go undetected until production, increasing the attack surface.
 * **Solution:** Building a secure containerization workflow that integrates **Trivy** for automated vulnerability scanning (CVEs).
-* **Current Stage:** Refining CI/CD YAML configurations and security gate policies. 
 * [🔗 View Repository](https://github.com/Pablo-RJ/Secure-Artifact-Repository)
+
 
 ---
 
